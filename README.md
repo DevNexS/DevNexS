@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=F70A77&random=false&width=435&lines=Full-stack+web+and+app+developer;Experienced+UI%2FUX+designer+;ETH%3A+devnex.eth+%7C+ZkSync%3A+devnex.zk)](https://git.io/typing-svg)
 
 <!--
 **DevNexS/DevNexS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
